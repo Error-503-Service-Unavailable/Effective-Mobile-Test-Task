@@ -1,6 +1,6 @@
-### Postman-документация:
-Интерактивная документация с mock сервером и настроенная коллекция с окружением доступны по ссылке:  
-[Документация Postman — Petrushka Backend](https://www.postman.com/dark-flare-463733/task-2-rest-api/collection/vg6grdn/petrushka-backend?action=share&source=copy-link&creator=29498713)
+## Postman-документация:
+Интерактивная документация с mock сервером и **обработкой ошибок**:  
+**[Документация Postman — Petrushka Backend](https://www.postman.com/dark-flare-463733/task-2-rest-api/collection/vg6grdn/petrushka-backend?action=share&source=copy-link&creator=29498713)**
 ### Пример запроса: 
 ```petrushka/api/v1/partner-stores```
 ### Пример JSON ответа:
